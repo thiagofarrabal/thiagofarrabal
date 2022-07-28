@@ -1,7 +1,7 @@
 ### Hi, my name is Thiago. 👋
 
 - 🔭 Estou Estudando Analise e Desenvolvimento de Sistemas
-- 🌱 Estou aprendendo JAVASCRIPT E HTML
+- 🌱 Aprendendo JAVASCRIPT E HTML
 
 
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
